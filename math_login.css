@@ -1,0 +1,20 @@
+body
+{
+	background: lightblue;
+	text-align: center;
+}
+
+	.div1 , .div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player_input , #player_input2
+{
+	display: inline-block;
+	margin-left: 20px;
+}
